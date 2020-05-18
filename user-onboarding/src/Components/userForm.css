@@ -1,0 +1,28 @@
+.entireForm {
+    margin: 30px;
+    background-color: #282c34;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.juan {
+    margin: 5px 0px;
+    padding: 5px 0px;
+    color: white;
+}
+
+.submitButton {
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+}
+
+input {
+    border-radius: 5px;
+    height: 30px;
+    width: 30%;
+    font-size: 18px;
+}
